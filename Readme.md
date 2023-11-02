@@ -24,15 +24,15 @@ For the 'AES/CBC/PKCS7Padding' support:
 ```
 There are 2 methods that in charge of encrypt and decrypt:
 - encode(): That will take 3 arguments to pass to the process() method
-and the cipher mode (CTR.Cipher.ENCRYPT_MODE) to encrypt
+and the cipher mode (main.java.CTR.Cipher.ENCRYPT_MODE) to encrypt
 
 - decode(): That will take 3 arguments to pass to the process() method
-and the cipher mode (CTR.Cipher.DECRYPT_MODE) to decrypt
+and the cipher mode (main.java.CTR.Cipher.DECRYPT_MODE) to decrypt
 ```
 
 ```
 process(): This is the main method that is responsible for
-encrypting or decrypting data using the AES algorithm in CTR.Cipher Block 
+encrypting or decrypting data using the AES algorithm in main.java.CTR.Cipher Block 
 Chaining (CBC) mode with PKCS5 padding
 ```
 

@@ -1,4 +1,4 @@
-package CBC;
+package main.java.CBC;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
