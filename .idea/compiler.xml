@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="1313541-f5e65174f9ea3d3481e0886b5af67f8510cbb8bb" />
+        <module name="AES-Crypto" />
       </profile>
     </annotationProcessing>
   </component>
