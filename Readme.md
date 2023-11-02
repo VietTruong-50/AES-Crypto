@@ -3,7 +3,7 @@
 ### 1) Clone the java project
 
 ```bash
-git clone https://gist.github.com/1313541.git
+https://github.com/VietTruong-50/AES-Crypto.git
 ```
 
 ### 2) Set up
