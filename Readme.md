@@ -22,7 +22,7 @@ mvn clean install
 
 
 ```bash
-java -cp target/AES-Crypto-1.0-SNAPSHOT.jar main/java/CBC/CryptAES128 "mysecretkey12345" "1234567890123457" "Hello world!"
+java -cp target/AES-Crypto-1.0-SNAPSHOT.jar main/java/CBC/CryptAES "mysecretkey12345" "1234567890123457" "Hello world!"
 ```
 
 ##### Inside the class CryptAES128.java, there are 4 methods:
